@@ -1,0 +1,16 @@
+{
+    "Case_Type": "H-1B Extension",
+    "Petitioner_Company": "ABC Company LLC",
+    "salutation": "Mr.",
+    "full_name": "John Doe",
+    "exhibits": [
+      {"1": "Beneficiary's Identity, Status Documents, and Pay Statements"},
+      {"2": "I-140 Approval and Visa Bulletin"},
+      {"3": "Company Background Information"},
+      {"4": "OOH Excerpt: 17-1521.00"},
+      {"5": "O*NET Excerpt: Software Developers"},
+      {"6": "Beneficiary's Credentials"},
+      {"7": "Beneficiary's Resume"}
+    ]
+  }
+  
